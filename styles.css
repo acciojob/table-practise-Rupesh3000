@@ -4,8 +4,12 @@ table {
         }
 
         th{
-            border: 1px solid black;
+            border: 1px solid rgb(0,0,0);
         }
         td{
-            border: 1px solid black;
+            border: 1px solid rgb(0,0,0);
         }
+tr {
+            border: 1px solid rgb(0,0,0);
+	
+}
